@@ -28,8 +28,8 @@ microphone_time = 10 # 600 is 10 minutes
 
 
 # Email Controls
-email_address = "nazimcp7@gmail.com"
-password = "nazimcp7@google"
+email_address = "your_email_id@gmail.com"
+password = "password"
 
 
 #######################################################
